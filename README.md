@@ -1,5 +1,4 @@
 # Pharmaceutical-Supply-Chain-Inventory-Inventory-Optimization
-# Sales and Demographic Performance Dashboard
 
 ## Project Overview
 
