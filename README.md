@@ -28,3 +28,18 @@ Ultimately, the project seeks to provide data-driven insights and practical reco
 - **Evaluate predictive models** using appropriate performance metrics to assess how well the models estimate projected product sales.
 - **Generate actionable business insights** to support better inventory planning, minimise waste, reduce potential losses and improve pharmaceutical supply chain efficiency.
 
+  ## Data Sources
+
+The dataset contains product-level information, including product IDs, shelf-life days, historical sales for 2021 and 2022, market trend factors, compliance status, supplier details, manufacturing locations, product categories, safety stock days and storage locations. This data is used to analyse sales patterns, estimate future product demand and support inventory optimisation.
+
+## Data Processing
+
+- **Data cleaning:** Checked data quality, identified missing values and reviewed inconsistencies to prepare the dataset for analysis.
+- **Data type preparation:** Reviewed numerical and categorical variables to ensure they were in suitable formats for exploratory data analysis and modelling.
+- **Exploratory data analysis:** Examined product sales, market trends, shelf-life information and other product characteristics to understand patterns and relationships within the dataset.
+- **Sales trend calculation:** Compared 2021 and 2022 sales to identify changes in product sales performance and estimate potential future demand.
+- **Sales forecasting:** Calculated projected 2023 sales using historical sales trends and relevant market trend factors.
+- **Feature engineering:** Created additional features, including daily average sales and other relevant variables, to support inventory planning and predictive modelling.
+- **Inventory optimisation:** Calculated optimal inventory levels by considering projected sales, average daily sales, shelf-life constraints and safety stock requirements.
+- **Data preparation:** Selected and prepared relevant numerical and categorical features for machine learning, including encoding categorical variables where required.
+
