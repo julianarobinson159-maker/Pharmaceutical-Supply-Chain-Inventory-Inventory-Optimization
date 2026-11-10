@@ -1,13 +1,13 @@
 # Pharmaceutical-Supply-Chain-Inventory-Inventory-Optimization
 
 ##Table of Contents 
--[Proiect overview](#proiect-overview) 
+-[Proiect overview](#proiect-overview). 
 -[Proiect_Objective](#project-obiective).
 -[Data_Sourses](#data-sourses).
--[Data Preprocessing](#data-preprocessing), 
--[Machine Learning_Model](#machine-learning-model). 
+-[Data Preprocessing](#data-preprocessing).
+-[Machine Learning_Model](#machine-learning-model).
 -[Evalvation Metrics](#evaluation-metrics). 
--[Key Insights1](#Key-insigh8) 
+-[Key Insights1](#Key-insigh8).
 -[Conclusion](#conclusion).
 
 ## Project Overview
