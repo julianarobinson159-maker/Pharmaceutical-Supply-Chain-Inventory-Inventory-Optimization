@@ -1,5 +1,15 @@
 # Pharmaceutical-Supply-Chain-Inventory-Inventory-Optimization
 
+##Table of Contents 
+-[Proiect overview](#proiect-overview) 
+-[Proiect_Objective](#project-obiective).
+-[Data_Soursesl](#data-sourses).
+-[Data Preprocessing](#data-preprocessing), 
+-[Machine Learning_Model](#machine-learning-model). 
+-[Evalvation Metrics](#evaluation-metrics). 
+-[Key Insiehts1](#Key-insigh8) 
+-[Conclusion](#conclusion).
+
 ## Project Overview
 
 The objective of this project is to apply data science and machine learning techniques to optimise inventory management within the pharmaceutical supply chain. The project focuses on analysing historical product sales, market trends, shelf-life constraints and safety stock requirements to support better inventory planning and demand forecasting.
