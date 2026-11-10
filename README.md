@@ -18,3 +18,13 @@ By developing predictive models and applying inventory optimisation techniques, 
 
 Ultimately, the project seeks to provide data-driven insights and practical recommendations that can help pharmaceutical companies improve inventory control, reduce waste, manage stock more efficiently and enhance overall supply chain performance.
 
+## Project Objectives
+
+- **Analyse historical product sales patterns** to understand sales performance, product demand and changes in purchasing trends over time.
+- **Examine market trends and product characteristics** to identify factors that may influence sales performance and inventory requirements.
+- **Forecast future product sales** using historical sales data and market trend factors to estimate potential product demand.
+- **Optimise inventory levels** by considering projected sales, average daily sales, shelf-life constraints and safety stock requirements.
+- **Assess inventory risks** by identifying potential overstocking, excess stock and losses associated with product expiry and unsold inventory.
+- **Evaluate predictive models** using appropriate performance metrics to assess how well the models estimate projected product sales.
+- **Generate actionable business insights** to support better inventory planning, minimise waste, reduce potential losses and improve pharmaceutical supply chain efficiency.
+
